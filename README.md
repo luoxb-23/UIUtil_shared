@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-**UIUtil** 是一个轻量级的 UI 前置模组，它提供了两个主要功能：指令轮盘面板和 UI 系列 UI 面板。
+**UIUtil** 是属于游戏 StarSector 的轻量级 UI 前置模组，它提供了两个主要功能：指令轮盘面板和 UI 面板。
 
 本模组旨在为游戏提供高效且可定制的用户界面元素，帮助其他模组开发者更便捷地构建复杂的 UI。
 
@@ -30,7 +30,7 @@
 
 ## 下载与安装
 
-本模组的**最新稳定版本**可以在 GitHub Releases 页面下载。由于只保留最新版本，建议及时更新以获取最佳体验。
+本模组的**最新稳定版本**可以在 GitHub Releases 页面下载。
 
 **最新版本下载：** 请访问 [GitHub Releases 页面](https://github.com/luoxb-23/UIUtil_shared/releases)
 
