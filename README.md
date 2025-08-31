@@ -32,7 +32,7 @@
 
 本模组的**最新稳定版本**可以在 GitHub Releases 页面下载。由于只保留最新版本，建议及时更新以获取最佳体验。
 
-**最新版本下载：** 请访问 [GitHub Releases 页面](https://github.com/luoxb/UIUtil/releases)
+**最新版本下载：** 请访问 [GitHub Releases 页面](https://github.com/luoxb-23/UIUtil_shared/releases)
 
 ---
 
@@ -46,7 +46,7 @@
 
 如果您在使用过程中遇到任何 Bug 或有其他需求，欢迎通过以下方式提供反馈：
 
-*   **GitHub Issues:** 在本仓库的 [Issues 页面](https://github.com/luoxb/UIUtil/issues) 提交。请尽量详细描述您的问题，包括游戏版本、模组版本、复现步骤、错误截图等，这将非常有助我进行排查。
+*   **GitHub Issues:** 在本仓库的 [Issues 页面](https://github.com/luoxb-23/UIUtil_shared/issues) 提交。请尽量详细描述您的问题，包括游戏版本、模组版本、复现步骤、错误截图等，这将非常有助我进行排查。
 *   **Forum:** 在 [中文论坛页面](https://www.fossic.org/thread-15740-1-1.html) 和 [英文论坛页面](https://fractalsoftworks.com/forum/index.php?topic=33247.msg484375#msg484375) 均可通过回帖向我反馈
 
 ---
